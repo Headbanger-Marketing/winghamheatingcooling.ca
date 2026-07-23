@@ -1,0 +1,26 @@
+# Wingham Heating & Cooling
+
+> Wingham Heating & Cooling is a local HVAC company serving Wingham, Huron County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 357-0136  |  Email: contact@winghamheatingcooling.ca  |  Website: https://winghamheatingcooling.ca
+
+Service areas: Wingham, Blyth, Belgrave, Brussels, Lucknow
+
+## Key pages
+
+- [Home](https://winghamheatingcooling.ca/): Wingham Heating & Cooling homepage with service overview and FAQ
+- [About](https://winghamheatingcooling.ca/about/): About the company and service area
+- [Contact](https://winghamheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Repair](https://winghamheatingcooling.ca/services/furnace-repair/): Furnace Repair in Wingham, Ontario
+- [AC Repair](https://winghamheatingcooling.ca/services/ac-repair/): AC Repair in Wingham, Ontario
+- [Ductless AC Installation](https://winghamheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Wingham, Ontario
+- [Heat Pump Repair & Installation](https://winghamheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pump Repair & Installation in Wingham, Ontario
+- [Thermostat Repair & Replacement](https://winghamheatingcooling.ca/services/thermostat-repair-replacement/): Thermostat Repair & Replacement in Wingham, Ontario
+- [Duct Cleaning](https://winghamheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Wingham, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Wingham are answered on the homepage.
